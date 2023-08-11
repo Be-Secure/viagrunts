@@ -8,7 +8,7 @@ Vagrunt is a tool for building and distributing development environments.
 
 Vagrunt has a MIT license, and is a fork of Vagrant. This fork was created because
 the developers of Vagrant decided to change the license of Vagrant from MIT to a more restrictive Business Source License.
-The license of Vagrunt can be found here: https://github.com/vaagrunt/vagrunt/blob/main/LICENSE
+The license of Vagrunt can be found here: [LICENSE](LICENSE).
 
 Development environments managed by Vagrunt can run on local virtualized
 platforms such as VirtualBox or VMware, in the cloud via AWS or OpenStack,
